@@ -9,6 +9,7 @@ int main()
     std::cout << "Введите два числа: ";
     std::cin >> a >> b;
     std::cout << "Сумма чисел " << a + b << std::endl;
+    std::cout << "Разность чисел " << a - b << std::endl;
 
     return 0;
 }
